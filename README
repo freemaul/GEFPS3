@@ -1,0 +1,30 @@
+#Compilation
+./build.sh
+
+#Installation
+./build.sh install
+
+#Sample compilation
+./build.sh sample
+
+#Rum sample (with ps3load)
+./build.sh run
+
+
+
+#Commands 
+build.sh help
+	Display this help
+build.sh version
+	Display version of GEFPS3
+build.sh
+	Build GEFPS3
+build.sh install
+	Install GEFPS3
+build.sh uninstall
+	Remove GEFPS3
+build.sh sample
+	Build a sample of how to using GEFPS3
+build.sh run
+	Run a sample of how to using GEFPS3
+
